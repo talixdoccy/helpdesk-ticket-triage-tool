@@ -1,0 +1,5 @@
+1) User account locked after MFA prompt.
+2) VPN is down and I can’t access email. Urgent.
+3) Outlook keeps crashing after the latest update.
+4) Printer not responding in the finance office.
+5) WiFi outage affecting all users in the building.
