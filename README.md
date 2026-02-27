@@ -17,26 +17,20 @@ In many support environments, ticket quality and prioritization are inconsistent
 
 ```bash
 python triage.py
-Example input
 
+Example input
 VPN is down and I can’t access email. This is urgent.
 
 Example output
-
 Category: Network
 Priority: P1 (Critical)
 Recommended action: Check connectivity/VPN status, verify outage scope, escalate if widespread.
 
 Roadmap (next improvements)
-
 Add CSV/JSON input support for batch triage
-
 Add unit tests
-
 Add basic logging
-
 Optional: integrate AI-assisted response suggestions (future enhancement)
 
 Author
-
 Talix Doccy
