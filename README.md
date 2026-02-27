@@ -1,6 +1,5 @@
-# Helpdesk Ticket Triage Tool (Python)
-
-A simple command-line tool that categorizes and prioritizes IT support tickets using rule-based triage logic.
+# Helpdesk Ticket Triage Tool (Python CLI Automation Project)
+A structured Python-based CLI project demonstrating rule-based incident categorization and priority assignment in IT support environments.
 
 ## Why this project
 In many support environments, ticket quality and prioritization are inconsistent. This project demonstrates structured troubleshooting thinking by applying clear rules to classify incidents, assign priority, and suggest next steps.
@@ -26,7 +25,7 @@ Category: Network
 Priority: P1 (Critical)
 Recommended action: Check connectivity/VPN status, verify outage scope, escalate if widespread.
 
-Roadmap (next improvements)
+Planned Enhancements
 Add CSV/JSON input support for batch triage
 Add unit tests
 Add basic logging
