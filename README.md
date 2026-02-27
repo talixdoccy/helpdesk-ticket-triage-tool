@@ -17,6 +17,7 @@ In many support environments, ticket quality and prioritization are inconsistent
 
 ```bash
 python triage.py
+
 Example input
 
 VPN is down and I can’t access email. This is urgent.
